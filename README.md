@@ -21,6 +21,16 @@
 - 🌍 I'm from Đà Nẳng ,Việt Nam 🌎
 - 📫 Reach me at [votronghoang.av@gmail.com](mailto:votronghoang.av@gmail.com)
 - 🌱 I'm currently learning ## 📚 Currently Learning **Web3 scripting**, **wallet automation**, **GraphQL (Subgraph)**, and **async Python bots**
+## 📊 My GitHub Stats
+
+<!-- GitHub stats card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true)
+
+<!-- GitHub streak stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true)
+
+<!-- GitHub contribution graph -->
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark)
 
 
 
