@@ -24,13 +24,13 @@
 ## 📊 My GitHub Stats
 
 <!-- GitHub stats card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hogmass&show_icons=true&theme=dark&hide_border=true)
 
 <!-- GitHub streak stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hogmass&theme=dark&hide_border=true)
 
 <!-- GitHub contribution graph -->
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark)
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hogmass&theme=github-dark)
 
 
 
