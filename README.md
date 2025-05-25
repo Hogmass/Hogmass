@@ -14,7 +14,7 @@
 
 ## 🚀 Passion & Vision
 - Dedicated to streamlining repetitive blockchain tasks into reliable, reusable automation tools
-- Constantly exploring emerging technologies in **DeFi**, **Layer-2 scaling**, and decentralized infrastructure
+- Constantly exploring emerging technologies in **DeFi**, **Layer-1 scaling**, and decentralized infrastructure
 - Open to collaboration, sharing solutions, and contributing to the open-source community through GitHub
 
 
