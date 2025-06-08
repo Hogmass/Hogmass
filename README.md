@@ -68,9 +68,8 @@ Automation 🎮⏰ enthusiast building tools for Web3 & blockchain workflows usi
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-<img src="assets/sui-logo.png" alt="Sui" height="36" style="margin-right:10px;">
-<img src="assets/monad-logo.png" alt="Monad" height="36">
+![Sui](https://img.shields.io/badge/SUI-6FBCF0?style=for-the-badge&logoColor=white)
+![Monad](https://img.shields.io/badge/MONAD-FF4A00?style=for-the-badge&logoColor=white)
 
 ---
 
